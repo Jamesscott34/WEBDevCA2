@@ -1,0 +1,1125 @@
+[
+    {
+        "Movie Name": "The Godfather",
+        "Release Year": "1972",
+        "Genre": "Crime, Drama",
+        "Actors": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "Duration": "120 minutes",
+        "Description": "The Godfather is a classic crime drama film directed by Francis Ford Coppola. Set in the late 1940s, the story revolves around the powerful Italian-American crime family of Don Vito Corleone, played by Marlon Brando. As his youngest son Michael, portrayed by Al Pacino, reluctantly gets involved in the family business, tensions rise within the Corleone clan. The film delves deep into themes of loyalty, power, and betrayal as the Corleone family navigates the treacherous world of organized crime in post-war America. With stellar performances, gripping storytelling, and iconic scenes, The Godfather has cemented its place as one of the greatest films of all time.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/The_Godfather.jpg",
+        "Trailer": "..\/trailers\/the godfather.mp4"
+    },
+    {
+        "Movie Name": "Star Wars: Episode IV - A New Hope",
+        "Release Year": "1977",
+        "Genre": "Action, Adventure, Fantasy",
+        "Actors": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "Duration": "2 hours 1 minute",
+        "Description": "Star Wars: Episode IV - A New Hope is an epic space opera film directed by George Lucas. The story is set in a galaxy far, far away, where the evil Galactic Empire, led by Darth Vader, seeks to crush the Rebel Alliance and maintain its tyrannical grip on the galaxy. Enter Luke Skywalker, a young farm boy with dreams of adventure, Han Solo, a roguish smuggler, and Princess Leia, a fearless leader of the Rebellion. Together, they embark on a daring mission to rescue Princess Leia, destroy the Empire's ultimate weapon - the Death Star, and restore peace to the galaxy. Filled with iconic characters, thrilling action sequences, and groundbreaking special effects, A New Hope launched one of the most beloved franchises in cinematic history.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Star_Wars__Episode_IV_-_A_New_Hope_.jpg",
+        "Trailer": "..\/trailers\/star wars 4.mp4"
+    },
+    {
+        "Movie Name": "Raiders of the Lost Ark",
+        "Release Year": "1981",
+        "Genre": "Action, Adventure",
+        "Actors": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ],
+        "Duration": "1 hour 55 minutes",
+        "Description": "Raiders of the Lost Ark is a thrilling adventure film directed by Steven Spielberg. Set in the 1930s, the story follows the intrepid archaeologist Indiana Jones as he races against Nazi agents in a quest to find the biblical Ark of the Covenant. Along the way, Indy, played by Harrison Ford, encounters deadly traps, ancient mysteries, and rival archaeologists, including the spirited Marion Ravenwood, portrayed by Karen Allen. With its pulse-pounding action sequences, dazzling special effects, and unforgettable characters, Raiders of the Lost Ark has captivated audiences for decades and remains a timeless classic in the adventure genre.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Raiders_of_the_Lost_Ark_.jpg",
+        "Trailer": "..\/trailers\/raiders of the lost ark.mp4"
+    },
+    {
+        "Movie Name": "E.T. the Extra-Terrestrial",
+        "Release Year": "1982",
+        "Genre": "Family, Science Fiction",
+        "Actors": [
+            "Henry Thomas",
+            "Drew Barrymore",
+            "Dee Wallace"
+        ],
+        "Duration": "1 hour 55 minutes",
+        "Description": "E.T. the Extra-Terrestrial is a heartwarming family adventure directed by Steven Spielberg.\nWhen a gentle alien botanist becomes stranded on Earth, he befriends a young boy named Elliott, portrayed by Henry Thomas.\nAs Elliott and his siblings help E.T. evade government agents and reunite with his home planet, they embark on an unforgettable journey of friendship, courage, and wonder.\nWith its touching story, groundbreaking special effects, and iconic score, E.T. has captured the hearts of audiences around the world for generations.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/E.T._.jpg",
+        "Trailer": "..\/trailers\/ET.mp4"
+    },
+    {
+        "Movie Name": "Blade Runner",
+        "Release Year": "1982",
+        "Genre": "Sci-Fi, Thriller",
+        "Actors": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ],
+        "Duration": "1 hour 57 minutes",
+        "Description": "Blade Runner is a neo-noir science fiction film directed by Ridley Scott.\nSet in a dystopian future where genetically engineered replicants rebel against their human creators, the story follows Deckard, a retired blade runner played by Harrison Ford, tasked with hunting down rogue replicants.\nAs Deckard delves deeper into the case, he questions his own humanity and the nature of consciousness.\nWith its stunning visuals, thought-provoking themes, and gripping performances, Blade Runner has become a cult classic in the science fiction genre.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Blade_Runner.jpg",
+        "Trailer": "..\/trailers\/Blade Runner.mp4"
+    },
+    {
+        "Movie Name": "Back to the Future",
+        "Release Year": "1985",
+        "Genre": "Adventure, Comedy, Sci-Fi",
+        "Actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "Duration": "1 hour 56 minutes",
+        "Description": "Back to the Future is a timeless adventure comedy directed by Robert Zemeckis.\nWhen teenager Marty McFly, portrayed by Michael J. Fox, accidentally travels back in time to the 1950s in a plutonium-powered DeLorean time machine invented by his eccentric friend Doc Brown, played by Christopher Lloyd, he must ensure his parents fall in love to secure his existence.\nAs Marty navigates the quirks of the past while avoiding altering the future, he learns valuable lessons about love, friendship, and the consequences of time travel.\nWith its ingenious plot, memorable characters, and infectious charm, Back to the Future remains a beloved classic for audiences of all ages.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/Back_to_the_Future.jpg",
+        "Trailer": "..\/trailers\/Back to the future.mp4"
+    },
+    {
+        "Movie Name": "The Breakfast Club",
+        "Release Year": "1985",
+        "Genre": "Comedy, Drama",
+        "Actors": [
+            "Emilio Estevez",
+            "Molly Ringwald",
+            "Judd Nelson"
+        ],
+        "Duration": "1 hour 37 minutes",
+        "Description": "The Breakfast Club is a coming-of-age comedy-drama directed by John Hughes.\nSet in a high school where five vastly different students from different social cliques \u2013 a brain, an athlete, a basket case, a princess, and a criminal \u2013 are forced to spend a Saturday detention together, the film explores the complexities of teenage identity, social pressure, and friendship.\nAs the day progresses, the students break down their walls and form unexpected connections, realizing they have more in common than they initially thought.\nWith its witty dialogue, relatable characters, and poignant themes, The Breakfast Club remains a timeless portrayal of adolescent angst and camaraderie.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/The_Breakfast_Club.jpg",
+        "Trailer": "..\/trailers\/Breakfast club.mp4"
+    },
+    {
+        "Movie Name": "Die Hard",
+        "Release Year": "1988",
+        "Genre": "Action, Thriller",
+        "Actors": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia"
+        ],
+        "Duration": "2 hours 12 minutes",
+        "Description": "Die Hard is a groundbreaking action thriller directed by John McTiernan.\nWhen New York City police officer John McClane, portrayed by Bruce Willis, visits his estranged wife at her workplace, the Nakatomi Plaza, for a Christmas party, the festivities are interrupted by a group of terrorists led by the charismatic Hans Gruber, played by Alan Rickman.\nAs McClane battles the terrorists alone, armed with only his wit and resourcefulness, he becomes the reluctant hero in a high-stakes game of cat and mouse.\nWith its iconic one-liners, pulse-pounding action sequences, and charismatic performances, Die Hard redefined the action genre and remains a perennial favorite among moviegoers.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/Die_Hard_.jpg",
+        "Trailer": "..\/trailers\/Die Hard.mp4"
+    },
+    {
+        "Movie Name": "Rain Man",
+        "Release Year": "1988",
+        "Genre": "Drama",
+        "Actors": [
+            "Dustin Hoffman",
+            "Tom Cruise",
+            "Valeria Golino"
+        ],
+        "Duration": "2 hours 13 minutes",
+        "Description": "Rain Man is a heartfelt drama directed by Barry Levinson.\nWhen Charlie Babbitt, portrayed by Tom Cruise, learns that his estranged father has left his entire fortune to his autistic older brother, Raymond, played by Dustin Hoffman, Charlie embarks on a cross-country journey with Raymond to claim his inheritance.\nAs the two brothers reconnect and form a bond through their shared experiences, Charlie gains a deeper understanding of Raymond's unique perspective on the world.\nWith its powerful performances, poignant storytelling, and exploration of familial relationships, Rain Man has left a lasting impact on audiences worldwide.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Rain_Man.jpg",
+        "Trailer": "..\/trailers\/Rain MAn.mp4"
+    },
+    {
+        "Movie Name": "Indiana Jones and the Last Crusade",
+        "Release Year": "1989",
+        "Genre": "Action, Adventure",
+        "Actors": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody"
+        ],
+        "Duration": "2 hours 7 minutes",
+        "Description": "Indiana Jones and the Last Crusade is a thrilling action-adventure film directed by Steven Spielberg.\nIn this installment of the Indiana Jones series, renowned archaeologist and adventurer Indiana Jones, portrayed by Harrison Ford, embarks on a quest to find the Holy Grail, with the help of his estranged father, Professor Henry Jones, played by Sean Connery.\nAs they race against the Nazis to uncover the legendary artifact, Indiana Jones must confront his past and his relationship with his father while navigating treacherous obstacles and ancient mysteries.\nWith its exhilarating action sequences, witty humor, and dynamic performances, Indiana Jones and the Last Crusade is a timeless classic that continues to captivate audiences.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/Indiana_Jones_and_the_Last_Crusade.jpg",
+        "Trailer": "..\/trailers\/last crusade.mp4"
+    },
+    {
+        "Movie Name": "Goodfellas",
+        "Release Year": "1990",
+        "Genre": "Biography, Crime, Drama",
+        "Actors": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "Duration": "2 hours 26 minutes",
+        "Description": "Goodfellas is a gripping crime drama directed by Martin Scorsese.\nBased on the true story of mobster-turned-informant Henry Hill, portrayed by Ray Liotta, the film follows Henry's rise through the ranks of the Italian-American mafia and his eventual downfall.\nAs Henry becomes increasingly involved in organized crime alongside his mentor Jimmy Conway, played by Robert De Niro, and the volatile Tommy DeVito, portrayed by Joe Pesci, he must navigate a dangerous world of violence, betrayal, and loyalty.\nWith its electrifying performances, stylish direction, and gritty realism, Goodfellas is widely regarded as one of the greatest films ever made.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Goodfellas.jpg",
+        "Trailer": "..\/trailers\/the goodfellas.mp4"
+    },
+    {
+        "Movie Name": "The Silence of the Lambs",
+        "Release Year": "1991",
+        "Genre": "Crime, Drama, Thriller",
+        "Actors": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ],
+        "Duration": "1 hour 58 minutes",
+        "Description": "The Silence of the Lambs is a chilling psychological thriller directed by Jonathan Demme.\nFBI trainee Clarice Starling, portrayed by Jodie Foster, seeks the help of incarcerated serial killer Dr. Hannibal Lecter, played by Anthony Hopkins, to catch another serial killer known as Buffalo Bill.\nAs Clarice delves deeper into the twisted mind of Hannibal Lecter, she finds herself drawn into a deadly game of cat and mouse with Buffalo Bill.\nWith its haunting atmosphere, gripping performances, and iconic characters, The Silence of the Lambs is a masterclass in suspense and psychological horror.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/The_Silence_of_the_Lambs_.jpg",
+        "Trailer": "..\/trailers\/silence of the lambs.mp4"
+    },
+    {
+        "Movie Name": "Jurassic Park",
+        "Release Year": "1993",
+        "Genre": "Adventure, Sci-Fi, Thriller",
+        "Actors": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ],
+        "Duration": "2 hours 7 minutes",
+        "Description": "Jurassic Park is a groundbreaking science fiction adventure directed by Steven Spielberg.\nBased on the novel by Michael Crichton, the film follows a group of scientists and tourists who visit a remote island where an eccentric billionaire has created a theme park populated by genetically engineered dinosaurs.\nAs chaos erupts and the dinosaurs run amok, paleontologist Alan Grant, portrayed by Sam Neill, and paleobotanist Ellie Sattler, played by Laura Dern, must fight to survive alongside mathematician Ian Malcolm, portrayed by Jeff Goldblum.\nWith its groundbreaking visual effects, thrilling action sequences, and thought-provoking themes, Jurassic Park revolutionized the blockbuster genre and continues to awe audiences with its sense of wonder and adventure.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Jurassic_Park_.jpg",
+        "Trailer": "..\/trailers\/jurrassicpark.mp4"
+    },
+    {
+        "Movie Name": "Pulp Fiction",
+        "Release Year": "1994",
+        "Genre": "Crime, Drama",
+        "Actors": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "Duration": "2 hours 34 minutes",
+        "Description": "Pulp Fiction is a groundbreaking crime drama directed by Quentin Tarantino.\nSet in Los Angeles, the film weaves together multiple interconnected stories involving mobsters, hitmen, and other colorful characters.\nFrom the dance floors of a retro diner to the back rooms of seedy nightclubs, Pulp Fiction explores themes of redemption, violence, and the unexpected twists of fate.\nWith its nonlinear narrative, stylish dialogue, and memorable performances, Pulp Fiction has become a cultural phenomenon and a defining work of 1990s cinema.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Pulp_Fiction.jpg",
+        "Trailer": "..\/trailers\/Pulp Fiction.mp4"
+    },
+    {
+        "Movie Name": "The Shawshank Redemption",
+        "Release Year": "1994",
+        "Genre": "Drama",
+        "Actors": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "Duration": "2 hours 22 minutes",
+        "Description": "The Shawshank Redemption is a poignant drama directed by Frank Darabont.\nBased on a Stephen King novella, the film follows the experiences of Andy Dufresne, a banker wrongfully convicted of murder and sentenced to life in Shawshank State Penitentiary.\nAs Andy navigates the harsh realities of prison life, he forms an unlikely friendship with fellow inmate Red, played by Morgan Freeman, and maintains hope for eventual freedom.\nWith its themes of hope, friendship, and the triumph of the human spirit, The Shawshank Redemption is celebrated as one of the greatest films of all time.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/The_Shawshank_Redemption_.jpg",
+        "Trailer": "..\/trailers\/shawshank redemption.mp4"
+    },
+    {
+        "Movie Name": "Toy Story",
+        "Release Year": "1995",
+        "Genre": "Animation, Adventure, Comedy",
+        "Actors": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ],
+        "Duration": "1 hour 21 minutes",
+        "Description": "Toy Story is a beloved animated film directed by John Lasseter.\nSet in a world where toys come to life when humans are not around, the story follows the adventures of Woody, a pull-string cowboy doll, and Buzz Lightyear, a space ranger action figure, as they navigate the challenges of friendship, jealousy, and self-discovery.\nWith its groundbreaking computer animation, heartwarming story, and memorable characters, Toy Story captivated audiences of all ages and ushered in a new era of animated filmmaking.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Toy_story_.jpg",
+        "Trailer": "..\/trailers\/toy story 1.mp4"
+    },
+    {
+        "Movie Name": "Independence Day",
+        "Release Year": "1996",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Actors": [
+            "Will Smith",
+            "Bill Pullman",
+            "Jeff Goldblum"
+        ],
+        "Duration": "2 hours 25 minutes",
+        "Description": "Independence Day is an epic sci-fi action film directed by Roland Emmerich.\nWhen aliens launch a coordinated attack on Earth's major cities, humanity must unite to fight back against the extraterrestrial invaders.\nAs the world teeters on the brink of annihilation, a disparate group of individuals, including a fighter pilot, a scientist, and the President of the United States, come together to mount a last-ditch effort to save humanity.\nWith its spectacular visual effects, pulse-pounding action sequences, and stirring patriotism, Independence Day is a thrilling cinematic experience.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Independence_Day.jpg",
+        "Trailer": "..\/trailers\/independance day.mp4"
+    },
+    {
+        "Movie Name": "Titanic",
+        "Release Year": "1997",
+        "Genre": "Drama, Romance",
+        "Actors": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane"
+        ],
+        "Duration": "3 hours 15 minutes",
+        "Description": "Titanic is an epic romantic drama directed by James Cameron.\nSet against the backdrop of the ill-fated maiden voyage of the RMS Titanic, the film follows the love story between Jack Dawson, a penniless artist, and Rose DeWitt Bukater, a young socialite.\nAs their romance blossoms onboard the luxurious ocean liner, they must navigate the class divides and societal expectations that threaten to keep them apart.\nWith its breathtaking visuals, sweeping score, and timeless love story, Titanic remains one of the highest-grossing and most beloved films of all time.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Titanic_.jpg",
+        "Trailer": "..\/trailers\/titanic.mp4"
+    },
+    {
+        "Movie Name": "Saving Private Ryan",
+        "Release Year": "1998",
+        "Genre": "Action, Drama, War",
+        "Actors": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "Duration": "2 hours 49 minutes",
+        "Description": "Saving Private Ryan is a harrowing war drama directed by Steven Spielberg.\nSet during the D-Day invasion of Normandy in World War II, the film follows Captain John Miller, portrayed by Tom Hanks, and his squad as they embark on a dangerous mission to locate and bring home Private James Ryan, whose three brothers have been killed in action.\nAs they traverse war-torn Europe, they confront the brutal realities of combat and grapple with questions of duty, sacrifice, and the human cost of war.\nWith its visceral depiction of battle, stunning cinematography, and powerful performances, Saving Private Ryan is widely regarded as one of the greatest war films ever made.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Saving_Private_Ryan.jpg",
+        "Trailer": "..\/trailers\/saving private ryan.mp4"
+    },
+    {
+        "Movie Name": "The Matrix",
+        "Release Year": "1999",
+        "Genre": "Action, Sci-Fi",
+        "Actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "Duration": "2 hours 16 minutes",
+        "Description": "The Matrix is a groundbreaking sci-fi action film directed by The Wachowskis.\nSet in a dystopian future where humanity is unknowingly trapped in a simulated reality, the film follows computer programmer Neo, portrayed by Keanu Reeves, as he discovers the truth about the Matrix and joins a rebellion against the machines that control it.\nWith its mind-bending visuals, innovative special effects, and thought-provoking themes of reality and identity, The Matrix revolutionized the science fiction genre and continues to captivate audiences with its visionary storytelling.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/The_Matrix_.jpg",
+        "Trailer": "..\/trailers\/the matrix.mp4"
+    },
+    {
+        "Movie Name": "Gladiator",
+        "Release Year": "2000",
+        "Genre": "Action, Adventure, Drama",
+        "Actors": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "Duration": "2 hours 35 minutes",
+        "Description": "Gladiator is an epic historical drama directed by Ridley Scott.\nSet in ancient Rome, the film follows the journey of Maximus Decimus Meridius, a loyal general betrayed by the corrupt Emperor Commodus, played by Joaquin Phoenix.\nForced into slavery and seeking revenge, Maximus rises through the ranks of gladiatorial combat to challenge the tyrannical rule of Commodus and restore honor to his fallen family.\nWith its grand scale, breathtaking action sequences, and powerful performances, Gladiator is a cinematic spectacle that continues to resonate with audiences around the world.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Gladiator_.jpg",
+        "Trailer": "..\/trailers\/gladiator.mp4"
+    },
+    {
+        "Movie Name": "The Lord of the Rings: The Fellowship of the Ring",
+        "Release Year": "2001",
+        "Genre": "Action, Adventure, Fantasy",
+        "Actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ],
+        "Duration": "2 hours 58 minutes",
+        "Description": "The Lord of the Rings: The Fellowship of the Ring is an epic fantasy adventure directed by Peter Jackson.\nBased on the beloved novel by J.R.R. Tolkien, the film follows young hobbit Frodo Baggins, portrayed by Elijah Wood, as he embarks on a perilous journey to destroy the One Ring and defeat the dark lord Sauron.\nJoined by a fellowship of diverse allies, including the wise wizard Gandalf, played by Ian McKellen, and the brave ranger Aragorn, portrayed by Viggo Mortensen, Frodo must confront ancient evils and forge unlikely alliances to save Middle-earth from darkness.\nWith its breathtaking landscapes, intricate world-building, and timeless themes of friendship and heroism, The Lord of the Rings: The Fellowship of the Ring is a cinematic masterpiece that has captivated audiences for generations.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/The_Lord_of_The_Rings__The_Fellowship_of_The_Ring_.jpg",
+        "Trailer": "..\/trailers\/lord of rings 1.mp4"
+    },
+    {
+        "Movie Name": "Spider-Man",
+        "Release Year": "2002",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Actors": [
+            "Tobey Maguire",
+            "Kirsten Dunst",
+            "Willem Dafoe"
+        ],
+        "Duration": "2 hours 1 minute",
+        "Description": "Spider-Man is a thrilling superhero film directed by Sam Raimi.\nBased on the Marvel Comics character, the film follows the origin story of Peter Parker, a high school student who gains spider-like abilities after being bitten by a radioactive spider.\nAs Peter grapples with his newfound powers and responsibilities, he must confront his own insecurities and face off against the villainous Green Goblin, portrayed by Willem Dafoe.\nWith its exhilarating action sequences, heartfelt storytelling, and iconic heroics, Spider-Man is a must-watch for fans of the web-slinger.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Spider-man_.jpg",
+        "Trailer": "..\/trailers\/spider man 1.mp4"
+    },
+    {
+        "Movie Name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Release Year": "2003",
+        "Genre": "Action, Adventure, Fantasy",
+        "Actors": [
+            "Johnny Depp",
+            "Orlando Bloom",
+            "Keira Knightley"
+        ],
+        "Duration": "2 hours 23 minutes",
+        "Description": "Pirates of the Caribbean: The Curse of the Black Pearl is a swashbuckling adventure directed by Gore Verbinski.\nSet in the Caribbean during the Golden Age of Piracy, the film follows the eccentric pirate Captain Jack Sparrow, portrayed by Johnny Depp, as he teams up with blacksmith Will Turner, played by Orlando Bloom, and the spirited Elizabeth Swann, portrayed by Keira Knightley, to rescue Elizabeth from the clutches of the undead pirate Barbossa.\nWith its thrilling action sequences, witty humor, and memorable characters, Pirates of the Caribbean: The Curse of the Black Pearl is a rollicking good time that has spawned a beloved film franchise.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Pirates_of_the_Caribbean__The_Curse_of_the_Black_Pearl_.jpg",
+        "Trailer": "..\/trailers\/black pearl.mp4"
+    },
+    {
+        "Movie Name": "Eternal Sunshine of the Spotless Mind",
+        "Release Year": "2004",
+        "Genre": "Drama, Romance, Sci-Fi",
+        "Actors": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Elijah Wood"
+        ],
+        "Duration": "1 hour 48 minutes",
+        "Description": "Eternal Sunshine of the Spotless Mind is a mesmerizing romantic drama directed by Michel Gondry.\nWhen Joel Barish, portrayed by Jim Carrey, discovers that his ex-girlfriend Clementine, played by Kate Winslet, has undergone a procedure to erase him from her memories, he decides to undergo the same procedure to forget her.\nAs Joel revisits his memories of Clementine, he realizes the depth of his feelings for her and embarks on a surreal journey through his subconscious.\nWith its inventive storytelling, poignant performances, and philosophical exploration of love and memory, Eternal Sunshine of the Spotless Mind is a thought-provoking masterpiece that lingers in the mind long after the credits roll.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Eternal_Sunshine_of_the_Spotless_Mind_.jpg",
+        "Trailer": "..\/trailers\/eternal sunshine.mp4"
+    },
+    {
+        "Movie Name": "The Dark Knight",
+        "Release Year": "2008",
+        "Genre": "Action, Crime, Drama",
+        "Actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "Duration": "2 hours 32 minutes",
+        "Description": "The Dark Knight is a gripping action crime drama directed by Christopher Nolan.\nSet in the fictional Gotham City, the film follows the legendary superhero Batman, portrayed by Christian Bale, as he faces his greatest challenge yet in the form of the anarchic and enigmatic Joker, played by Heath Ledger.\nAs Batman grapples with the moral complexities of justice and vigilantism, he must confront his own inner demons and make impossible choices to protect the city he loves.\nWith its intense performances, thrilling action sequences, and thought-provoking themes of chaos and order, The Dark Knight is a cinematic masterpiece that transcends the superhero genre.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/The_Dark_Knight_.jpg",
+        "Trailer": "..\/trailers\/the dark knight.mp4"
+    },
+    {
+        "Movie Name": "Avatar",
+        "Release Year": "2009",
+        "Genre": "Action, Adventure, Fantasy",
+        "Actors": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver"
+        ],
+        "Duration": "2 hours 42 minutes",
+        "Description": "Avatar is an epic action adventure fantasy directed by James Cameron.\nSet on the alien world of Pandora, the film follows Jake Sully, a paralyzed former marine portrayed by Sam Worthington, as he becomes embroiled in a conflict between the indigenous Na'vi people and the human colonizers exploiting their land.\nAs Jake navigates the lush and dangerous landscape of Pandora and forms a bond with the Na'vi, he must choose between loyalty to his own species and the call of a higher purpose.\nWith its groundbreaking visual effects, immersive world-building, and environmental themes, Avatar transports audiences to a breathtaking and unforgettable cinematic experience.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Avatar.jpg",
+        "Trailer": "..\/trailers\/avatar1.mp4"
+    },
+    {
+        "Movie Name": "Up",
+        "Release Year": "2009",
+        "Genre": "Animation, Adventure, Comedy",
+        "Actors": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "Bob Peterson"
+        ],
+        "Duration": "1 hour 36 minutes",
+        "Description": "Up is a heartwarming animated adventure comedy directed by Pete Docter.\nThe film follows the unlikely friendship between Carl Fredricksen, a grumpy elderly widower voiced by Edward Asner, and Russell, a young Wilderness Explorer scout voiced by Jordan Nagai, as they embark on a journey to South America in a flying house powered by helium balloons.\nAlong the way, they encounter exotic wildlife, perilous obstacles, and unexpected companions, including a talking dog named Dug.\nWith its poignant storytelling, colorful animation, and themes of friendship and resilience, Up is a timeless classic that appeals to audiences of all ages.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/UP.jpg",
+        "Trailer": "..\/trailers\/up.mp4"
+    },
+    {
+        "Movie Name": "Inglourious Basterds",
+        "Release Year": "2009",
+        "Genre": "Adventure, Drama, War",
+        "Actors": [
+            "Brad Pitt",
+            "M\u00e9lanie Laurent",
+            "Christoph Waltz"
+        ],
+        "Duration": "2 hours 33 minutes",
+        "Description": "Inglourious Basterds is a thrilling adventure drama war film directed by Quentin Tarantino.\nSet in Nazi-occupied France during World War II, the film follows a group of Jewish-American soldiers known as the 'Basterds' as they embark on a mission to assassinate high-ranking Nazi officials.\nLed by the charismatic Lieutenant Aldo Raine, portrayed by Brad Pitt, and aided by a vengeful Jewish survivor named Shosanna Dreyfus, played by M\u00e9lanie Laurent, the Basterds engage in a game of cat-and-mouse with the ruthless Colonel Hans Landa, portrayed by Christoph Waltz.\nWith its trademark Tarantino dialogue, stylish visuals, and tension-filled storytelling, Inglourious Basterds is a cinematic tour de force that defies expectations and leaves a lasting impact on viewers.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Inglourious_Basterds.jpg",
+        "Trailer": "..\/trailers\/inglorious bastards.mp4"
+    },
+    {
+        "Movie Name": "District 9",
+        "Release Year": "2009",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Actors": [
+            "Sharlto Copley",
+            "Jason Cope",
+            "Nathalie Boltt"
+        ],
+        "Duration": "1 hour 52 minutes",
+        "Description": "District 9 is a gripping action sci-fi thriller directed by Neill Blomkamp.\nSet in a dystopian alternate reality where extraterrestrial refugees are confined to slum-like conditions in South Africa, the film follows Wikus van de Merwe, a hapless bureaucrat portrayed by Sharlto Copley, as he becomes embroiled in a conspiracy involving alien technology.\nAs Wikus uncovers the truth about the mysterious prawns and their connection to his own fate, he must confront his own prejudices and question the nature of humanity.\nWith its visceral action sequences, socially relevant themes, and groundbreaking visual effects, District 9 is a thought-provoking exploration of identity, power, and redemption.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/District_9_.jpg",
+        "Trailer": "..\/trailers\/district 9.mp4"
+    },
+    {
+        "Movie Name": "Inception",
+        "Release Year": "2010",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ellen Page"
+        ],
+        "Duration": "2 hours 28 minutes",
+        "Description": "Inception is a mind-bending action adventure sci-fi film directed by Christopher Nolan.\nSet in a world where technology allows people to enter and manipulate dreams, the film follows master thief Dom Cobb, portrayed by Leonardo DiCaprio, as he assembles a team to perform an impossible heist within the dreamscape.\nAs Cobb delves deeper into the layers of the subconscious, he grapples with his own guilt and grief while navigating a labyrinth of deception and intrigue.\nWith its stunning visuals, labyrinthine plot, and philosophical themes of reality and perception, Inception is a cinematic experience that challenges the mind and captivates the imagination.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/Inception_.jpg",
+        "Trailer": "..\/trailers\/inception.mp4"
+    },
+    {
+        "Movie Name": "The Social Network",
+        "Release Year": "2010",
+        "Genre": "Biography, Drama",
+        "Actors": [
+            "Jesse Eisenberg",
+            "Andrew Garfield",
+            "Justin Timberlake"
+        ],
+        "Duration": "2 hours",
+        "Description": "The Social Network is a compelling biography drama directed by David Fincher.\nBased on the true story of the founding of Facebook, the film follows Mark Zuckerberg, portrayed by Jesse Eisenberg, as he navigates the complexities of friendship, betrayal, and ambition in the cutthroat world of Silicon Valley.\nAs Zuckerberg faces lawsuits and personal conflicts, he must confront the consequences of his actions and the impact of his creation on society.\nWith its sharp dialogue, nuanced performances, and exploration of modern technology and social dynamics, The Social Network is a riveting portrayal of innovation and its consequences.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/The_Social_Network.jpg",
+        "Trailer": "..\/trailers\/social network.mp4"
+    },
+    {
+        "Movie Name": "Toy Story 3",
+        "Release Year": "2010",
+        "Genre": "Animation, Adventure, Comedy",
+        "Actors": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ],
+        "Duration": "1 hour 43 minutes",
+        "Description": "Toy Story 3 is a heartwarming animated adventure comedy directed by Lee Unkrich.\nAs Andy prepares to leave for college, Woody, Buzz Lightyear, and the rest of the toys find themselves donated to a daycare center, where they must navigate a chaotic and unpredictable environment.\nAs they face new challenges and confront the truth about their own mortality, the toys must band together to escape and find a new home.\nWith its emotional storytelling, vibrant animation, and nostalgic themes of friendship and growing up, Toy Story 3 is a fitting conclusion to Pixar's beloved trilogy.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Toy_Story_3_.jpg",
+        "Trailer": "..\/trailers\/toy story 3.mp4"
+    },
+    {
+        "Movie Name": "The Avengers",
+        "Release Year": "2012",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Actors": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Scarlett Johansson"
+        ],
+        "Duration": "2 hours 23 minutes",
+        "Description": "The Avengers is an exhilarating action adventure sci-fi film directed by Joss Whedon.\nBringing together iconic superheroes like Iron Man, Captain America, Thor, and the Hulk, the film follows the formation of the Avengers team as they unite to defend Earth from the villainous Loki and his alien army.\nAs the Avengers face off against overwhelming odds and confront their own personal demons, they must learn to work together and harness their unique abilities to save the world.\nWith its epic battles, charismatic performances, and witty humor, The Avengers is a thrilling and entertaining blockbuster that celebrates the power of teamwork and heroism.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/The_Avengers_.jpg",
+        "Trailer": "..\/trailers\/the avengers.mp4"
+    },
+    {
+        "Movie Name": "Gravity",
+        "Release Year": "2013",
+        "Genre": "Thriller, Sci-Fi",
+        "Actors": [
+            "Sandra Bullock",
+            "George Clooney"
+        ],
+        "Duration": "1 hour 31 minutes",
+        "Description": "Gravity is a gripping thriller directed by Alfonso Cuar\u00f3n.\nSet in the vast expanse of outer space, the film follows Dr. Ryan Stone, a medical engineer portrayed by Sandra Bullock, and Matt Kowalski, a veteran astronaut played by George Clooney, as they struggle to survive after their space shuttle is destroyed by debris.\nAs they drift into the void, facing increasingly perilous obstacles and dwindling oxygen supplies, they must summon the courage and ingenuity to find a way back to Earth.\nWith its breathtaking visuals, intense performances, and existential themes of isolation and survival, Gravity is a cinematic tour de force that keeps audiences on the edge of their seats.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Gravity.jpg",
+        "Trailer": "..\/trailers\/gravity.mp4"
+    },
+    {
+        "Movie Name": "Interstellar",
+        "Release Year": "2014",
+        "Genre": "Thriller, Sci-Fi",
+        "Actors": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "Duration": "2 hours 49 minutes",
+        "Description": "Interstellar is an epic thriller directed by Christopher Nolan.\nSet in a near-future Earth plagued by environmental collapse, the film follows former NASA pilot Cooper, portrayed by Matthew McConaughey, as he embarks on a perilous journey through a wormhole in search of a new habitable planet for humanity.\nAs Cooper and his crew confront the mysteries of space and time, they must grapple with the limits of human knowledge and the power of love and sacrifice.\nWith its mind-bending visuals, ambitious storytelling, and thought-provoking themes of destiny and human resilience, Interstellar is a cinematic odyssey that pushes the boundaries of imagination.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Interstellar.jpg",
+        "Trailer": "..\/trailers\/interstellar.mp4"
+    },
+    {
+        "Movie Name": "Mad Max: Fury Road",
+        "Release Year": "2015",
+        "Genre": "Thriller, Action, Adventure",
+        "Actors": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ],
+        "Duration": "2 hours",
+        "Description": "Mad Max: Fury Road is a high-octane thriller directed by George Miller.\nSet in a post-apocalyptic desert wasteland, the film follows the titular character, Max Rockatansky, portrayed by Tom Hardy, and Imperator Furiosa, played by Charlize Theron, as they join forces to escape from the tyrannical ruler Immortan Joe.\nAs they engage in a relentless pursuit across the barren landscape, they encounter a band of fierce warriors known as the War Boys and forge unlikely alliances in their quest for freedom.\nWith its breathtaking practical effects, adrenaline-fueled action sequences, and feminist themes of empowerment and redemption, Mad Max: Fury Road is a modern masterpiece of the action genre.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Mad_Max__Fury_Road.jpg",
+        "Trailer": "..\/trailers\/mad max.mp4"
+    },
+    {
+        "Movie Name": "La La Land",
+        "Release Year": "2016",
+        "Genre": "Thriller, Musical, Romance",
+        "Actors": [
+            "Ryan Gosling",
+            "Emma Stone",
+            "John Legend"
+        ],
+        "Duration": "2 hours 8 minutes",
+        "Description": "La La Land is a captivating musical thriller directed by Damien Chazelle.\nSet in modern-day Los Angeles, the film follows aspiring actress Mia, portrayed by Emma Stone, and jazz musician Sebastian, played by Ryan Gosling, as they pursue their dreams in a city known for its glamour and ambition.\nAs their paths cross and their romance blossoms, they must confront the realities of success and sacrifice in the cutthroat entertainment industry.\nWith its dazzling musical numbers, heartfelt performances, and nostalgic homage to classic Hollywood, La La Land is a modern-day love letter to the magic of cinema.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/La_La_Land_.jpg",
+        "Trailer": "..\/trailers\/lala land.mp4"
+    },
+    {
+        "Movie Name": "Get Out",
+        "Release Year": "2017",
+        "Genre": "Thriller, Mystery, Horror",
+        "Actors": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford"
+        ],
+        "Duration": "1 hour 44 minutes",
+        "Description": "Get Out is a chilling thriller directed by Jordan Peele.\nThe film follows Chris Washington, portrayed by Daniel Kaluuya, as he visits the secluded estate of his girlfriend's wealthy family for the weekend.\nAs the weekend unfolds, Chris uncovers a series of disturbing secrets and sinister motives lurking beneath the surface of suburbia.\nWith its sharp social commentary, masterful suspense, and thought-provoking exploration of race and identity, Get Out is a groundbreaking film that redefines the horror genre.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Get_Out.jpg",
+        "Trailer": "..\/trailers\/get out.mp4"
+    },
+    {
+        "Movie Name": "Parasite",
+        "Release Year": "2019",
+        "Genre": "Thriller, Drama, Comedy",
+        "Actors": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ],
+        "Duration": "2 hours 12 minutes",
+        "Description": "Parasite is a genre-defying thriller directed by Bong Joon-ho.\nThe film follows the impoverished Kim family as they infiltrate the lives of the wealthy Park family through a series of deceptive schemes.\nAs tensions rise and secrets are revealed, the Kims find themselves entangled in a web of lies and betrayal with devastating consequences.\nWith its razor-sharp wit, shocking twists, and incisive social commentary on class inequality, Parasite is a cinematic tour de force that defies categorization.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Parasite.jpg",
+        "Trailer": "..\/trailers\/parasite.mp4"
+    },
+    {
+        "Movie Name": "Tenet",
+        "Release Year": "2020",
+        "Genre": "Thriller, Action, Sci-Fi",
+        "Actors": [
+            "John David Washington",
+            "Robert Pattinson",
+            "Elizabeth Debicki"
+        ],
+        "Duration": "2 hours 30 minutes",
+        "Description": "Tenet is a mind-bending thriller directed by Christopher Nolan.\nThe film follows a secret agent known as the Protagonist, portrayed by John David Washington, as he embarks on a mission to prevent World War III.\nAs he delves into the world of international espionage, the Protagonist must navigate a web of time inversion and temporal manipulation to unravel the mysteries of a powerful weapon known as Tenet.\nWith its intricate plot, jaw-dropping action sequences, and philosophical exploration of time and reality, Tenet is a cinematic puzzle that challenges the mind and dazzles the senses.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Tenet.jpg",
+        "Trailer": "..\/trailers\/tenet.mp4"
+    },
+    {
+        "Movie Name": "Wonder Woman 1984",
+        "Release Year": "2020",
+        "Genre": "Thriller, Action, Adventure",
+        "Actors": [
+            "Gal Gadot",
+            "Chris Pine",
+            "Kristen Wiig"
+        ],
+        "Duration": "2 hours 31 minutes",
+        "Description": "Wonder Woman 1984 is an electrifying thriller directed by Patty Jenkins.\nThe film follows Diana Prince, portrayed by Gal Gadot, as she battles against two formidable foes: Maxwell Lord and Cheetah.\nSet against the backdrop of the vibrant 1980s, Wonder Woman must harness all of her strength, wisdom, and courage to save humanity from destruction.\nWith its exhilarating action sequences, heartfelt performances, and empowering message of hope and resilience, Wonder Woman 1984 is a thrilling cinematic experience that celebrates the iconic superheroine.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Wonder_Woman_1984_.jpg",
+        "Trailer": "..\/trailers\/wonder woman.mp4"
+    },
+    {
+        "Movie Name": "Soul",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama, Comedy",
+        "Actors": [
+            "Jamie Foxx",
+            "Tina Fey",
+            "Graham Norton"
+        ],
+        "Duration": "1 hour 40 minutes",
+        "Description": "Soul is a heartfelt fantasy drama directed by Pete Docter and Kemp Powers.\nThe film follows Joe Gardner, a middle-school band teacher and aspiring jazz musician, portrayed by Jamie Foxx, as he embarks on a journey through the afterlife.\nAs Joe navigates the Great Before and learns valuable lessons about purpose, passion, and the meaning of life, he discovers the true essence of his soul.\nWith its stunning animation, soulful soundtrack, and poignant exploration of existential themes, Soul is a cinematic masterpiece that resonates with audiences of all ages.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Soul.jpg",
+        "Trailer": "..\/trailers\/soul.mp4"
+    },
+    {
+        "Movie Name": "Nomad land",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Frances McDormand",
+            "David Strathairn",
+            "Linda May"
+        ],
+        "Duration": "1 hour 47 minutes",
+        "Description": "Nomadland is a poignant fantasy drama directed by Chlo\u00e9 Zhao.\nThe film follows Fern, portrayed by Frances McDormand, a woman who embarks on a journey through the American West after losing everything in the Great Recession.\nAs Fern explores the vast landscapes and encounters fellow nomads living on the fringes of society, she discovers a newfound sense of freedom and belonging.\nWith its stunning cinematography, authentic performances, and meditative exploration of the human spirit, Nomadland is a cinematic experience that captures the essence of the American Dream.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Nomadland.jpg",
+        "Trailer": "..\/trailers\/nomadland.mp4"
+    },
+    {
+        "Movie Name": "The Trial of the Chicago 7",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Eddie Redmayne",
+            "Sacha Baron Cohen",
+            "Mark Rylance"
+        ],
+        "Duration": "2 hours 10 minutes",
+        "Description": "The Trial of the Chicago 7 is a gripping drama directed by Aaron Sorkin.\nThe film chronicles the infamous trial of seven defendants charged with inciting riots during the 1968 Democratic National Convention in Chicago.\nAs the defendants, including anti-war activists, cultural radicals, and countercultural figures, navigate the complexities of the legal system and clash with the authoritarian Judge Julius Hoffman, they become symbols of resistance and political dissent.\nWith its stellar ensemble cast, sharp dialogue, and timely exploration of civil liberties and social justice, The Trial of the Chicago 7 is a riveting courtroom drama that resonates with contemporary relevance.",
+        "Cinema": "BallsBridge",
+        "Image": "..\/images\/movie_images\/The_Trial_of_the_Chicago_7.jpg",
+        "Trailer": "..\/trailers\/chicago 7.mp4"
+    },
+    {
+        "Movie Name": "The Father",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Anthony Hopkins",
+            "Olivia Colman",
+            "Mark Gatiss"
+        ],
+        "Duration": "1 hour 37 minutes",
+        "Description": "The Father is a poignant drama directed by Florian Zeller.\nThe film follows Anthony, an aging man struggling with dementia, portrayed by Anthony Hopkins, as he grapples with the disintegration of his memory and identity.\nAs Anthony's perception of reality becomes increasingly fragmented, his daughter Anne, played by Olivia Colman, must confront her own grief and uncertainty in the face of her father's declining health.\nWith its powerful performances, innovative narrative structure, and profound exploration of loss and compassion, The Father is a deeply moving cinematic experience that sheds light on the human condition.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/The_Father.jpg",
+        "Trailer": "..\/trailers\/father.mp4"
+    },
+    {
+        "Movie Name": "Promising Young Woman",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Thriller",
+        "Actors": [
+            "Carey Mulligan",
+            "Bo Burnham",
+            "Alison Brie"
+        ],
+        "Duration": "1 hour 53 minutes",
+        "Description": "Promising Young Woman is a provocative thriller directed by Emerald Fennell.\nThe film follows Cassie Thomas, portrayed by Carey Mulligan, a woman seeking vengeance against those responsible for the sexual assault of her best friend Nina.\nAs Cassie embarks on a dangerous mission to expose the predators hiding in plain sight, she confronts the toxic culture of complicity and entitlement that perpetuates sexual violence.\nWith its bold storytelling, dark humor, and searing critique of rape culture, Promising Young Woman is a timely and thought-provoking film that challenges societal norms and expectations.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Promising_Young_Woman.jpg",
+        "Trailer": "..\/trailers\/Promising Young Woman .mp4"
+    },
+    {
+        "Movie Name": "Mank",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Gary Oldman",
+            "Amanda Seyfried",
+            "Lily Collins"
+        ],
+        "Duration": "2 hours 11 minutes",
+        "Description": "Mank is a captivating drama directed by David Fincher.\nThe film delves into the life of Herman J. Mankiewicz, portrayed by Gary Oldman, as he races to finish the screenplay for Orson Welles' groundbreaking film Citizen Kane.\nAs Mank navigates the cutthroat world of 1930s Hollywood and grapples with his own demons, including alcoholism and political intrigue, he leaves an indelible mark on cinema history.\nWith its meticulous attention to detail, stunning cinematography, and captivating performances, Mank is a mesmerizing tribute to the golden age of Hollywood.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Mank.jpg",
+        "Trailer": "..\/trailers\/Mank.mp4"
+    },
+    {
+        "Movie Name": "Sound of Metal",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Riz Ahmed",
+            "Olivia Cooke",
+            "Paul Raci"
+        ],
+        "Duration": "2 hours",
+        "Description": "Sound of Metal is a powerful drama directed by Darius Marder.\nThe film follows Ruben Stone, portrayed by Riz Ahmed, a heavy-metal drummer who begins to lose his hearing and must come to terms with his new reality.\nAs Ruben grapples with the challenges of deafness and the uncertainty of his future, he finds solace and purpose in a community of deaf recovering addicts.\nWith its immersive sound design, authentic representation of deaf culture, and raw emotional performances, Sound of Metal is a profoundly moving cinematic experience that explores the resilience of the human spirit.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Sound_of_Metal.jpg",
+        "Trailer": "..\/trailers\/Sound of Metal.mp4"
+    },
+    {
+        "Movie Name": "Ma Rainey's Black Bottom",
+        "Release Year": "2020",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Chadwick Boseman",
+            "Viola Davis",
+            "Glynn Turman"
+        ],
+        "Duration": "1 hour 34 minutes",
+        "Description": "Ma Rainey's Black Bottom is a captivating drama directed by George C. Wolfe.\nThe film follows a turbulent recording session in 1920s Chicago as legendary blues singer Ma Rainey, portrayed by Viola Davis, clashes with her ambitious trumpeter Levee, played by Chadwick Boseman.\nAs tensions simmer and tempers flare, the characters confront issues of race, power, and artistic integrity in a society marked by racial injustice.\nWith its electrifying performances, vibrant period detail, and searing exploration of African-American culture and identity, Ma Rainey's Black Bottom is a cinematic triumph that honors the legacy of its legendary characters.",
+        "Cinema": "City Center",
+        "Image": "..\/images\/movie_images\/Ma_Rainey's_Black_Bottom.jpg",
+        "Trailer": "..\/trailers\/Ma Rainey's Black Bottom.mp4"
+    },
+    {
+        "Movie Name": "Dune",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Sci-Fi",
+        "Actors": [
+            "Timoth\u00e9e Chalamet",
+            "Rebecca Ferguson",
+            "Zendaya"
+        ],
+        "Duration": "2 hours 35 minutes",
+        "Description": "Dune is an epic science fiction fantasy directed by Denis Villeneuve.\nThe film follows Paul Atreides, portrayed by Timoth\u00e9e Chalamet, a young nobleman destined to fulfill his role as the messiah of the desert planet Arrakis.\nAs Paul navigates the treacherous politics of the interstellar empire and confronts the malevolent House Harkonnen, he becomes embroiled in a battle for control of the most valuable substance in the universe: the spice melange.\nWith its breathtaking visuals, rich world-building, and epic storytelling, Dune is a cinematic spectacle that transports audiences to a distant future where destiny and power collide.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Dune.jpg",
+        "Trailer": "..\/trailers\/Dune.mp4"
+    },
+    {
+        "Movie Name": "No Time to Die",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Daniel Craig",
+            "Rami Malek",
+            "L\u00e9a Seydoux"
+        ],
+        "Duration": "2 hours 43 minutes",
+        "Description": "No Time to Die is a pulse-pounding action fantasy directed by Cary Joji Fukunaga.\nThe film follows James Bond, portrayed by Daniel Craig, as he comes out of retirement to confront a dangerous new adversary named Safin, played by Rami Malek.\nAs Bond races against time to stop Safin from unleashing a deadly bioweapon, he must confront ghosts from his past and make the ultimate sacrifice to save the world.\nWith its exhilarating action sequences, high-stakes drama, and emotional depth, No Time to Die is a fitting conclusion to Daniel Craig's tenure as the iconic superspy.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/No_Time_to_Die.jpg",
+        "Trailer": "..\/trailers\/No Time to Die .mp4"
+    },
+    {
+        "Movie Name": "Black Widow",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Scarlett Johansson",
+            "Florence Pugh",
+            "David Harbour"
+        ],
+        "Duration": "2 hours 13 minutes",
+        "Description": "Black Widow is an electrifying action fantasy directed by Cate Shortland.\nThe film follows Natasha Romanoff, portrayed by Scarlett Johansson, as she confronts her past and reunites with her estranged family to take down a dangerous conspiracy.\nAs Natasha battles against formidable foes and grapples with the trauma of her past, she must confront the dark secrets that threaten to destroy her and those she loves.\nWith its pulse-pounding action, dynamic performances, and emotional resonance, Black Widow is a thrilling adventure that explores the complexities of family, identity, and redemption.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Black_Widow_.jpg",
+        "Trailer": "..\/trailers\/Black Widow.mp4"
+    },
+    {
+        "Movie Name": "Shang-Chi and the Legend of the Ten Rings",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Simu Liu",
+            "Awkwafina",
+            "Tony Leung"
+        ],
+        "Duration": "2 hours 12 minutes",
+        "Description": "Shang-Chi and the Legend of the Ten Rings is an action-packed fantasy directed by Destin Daniel Cretton.\nThe film follows Shang-Chi, portrayed by Simu Liu, a skilled martial artist who must confront his past and embrace his destiny as the legendary warrior.\nAs Shang-Chi teams up with his friend Katy, played by Awkwafina, and faces off against the powerful Ten Rings organization led by his father Wenwu, portrayed by Tony Leung, he discovers the true power within himself.\nWith its thrilling fight sequences, captivating mythology, and groundbreaking representation, Shang-Chi and the Legend of the Ten Rings is a groundbreaking superhero epic that expands the Marvel Cinematic Universe.",
+        "Cinema": "BallsBridge",
+        "Image": "..\/images\/movie_images\/Shang-Chi_and_the_Legend_of_the_Ten_Rings_.jpg",
+        "Trailer": "..\/trailers\/Shang-Chi and the Legend of the Ten Rings.mp4"
+    },
+    {
+        "Movie Name": "Spider-Man: No Way Home",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch"
+        ],
+        "Duration": "2 hours 28 minutes",
+        "Description": "Spider-Man: No Way Home is an electrifying action fantasy directed by Jon Watts.\nThe film follows Peter Parker, portrayed by Tom Holland, as he grapples with the fallout from revealing his secret identity as Spider-Man to the world.\nAs Peter seeks the help of Doctor Strange, played by Benedict Cumberbatch, to undo the damage caused by a spell gone wrong, he finds himself confronting villains from alternate dimensions.\nWith its dazzling visual effects, emotional storytelling, and nostalgic callbacks to previous Spider-Man films, Spider-Man: No Way Home is a thrilling ride that celebrates the legacy of the iconic web-slinger.",
+        "Cinema": "BallsBridge",
+        "Image": "..\/images\/movie_images\/Spider-Man__No_Way_Home_.jpg",
+        "Trailer": "..\/trailers\/no way home.mp4"
+    },
+    {
+        "Movie Name": "The Suicide Squad",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Margot Robbie",
+            "Idris Elba",
+            "John Cena"
+        ],
+        "Duration": "2 hours 12 minutes",
+        "Description": "The Suicide Squad is a wild and irreverent action fantasy directed by James Gunn.\nThe film follows a ragtag team of supervillains recruited by the government for a dangerous mission on the remote island of Corto Maltese.\nAs the Squad, including Harley Quinn, Bloodsport, and Peacemaker, battles against a ruthless dictator and a horde of deadly creatures, they must confront their own demons and forge unlikely alliances.\nWith its bold humor, explosive action, and colorful characters, The Suicide Squad is a deliriously fun ride that breathes new life into the superhero genre.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/The_Suicide_Squad.jpg",
+        "Trailer": "..\/trailers\/The Suicide Squad.mp4"
+    },
+    {
+        "Movie Name": "Judas and the Black Messiah",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Drama",
+        "Actors": [
+            "Daniel Kaluuya",
+            "LaKeith Stanfield",
+            "Jesse Plemons"
+        ],
+        "Duration": "2 hours 6 minutes",
+        "Description": "Judas and the Black Messiah is a gripping drama directed by Shaka King.\nThe film tells the true story of Fred Hampton, portrayed by Daniel Kaluuya, the charismatic leader of the Illinois Black Panther Party, and William O'Neal, played by LaKeith Stanfield, the FBI informant who infiltrated the organization.\nAs Hampton rises to prominence as a voice for social justice and Black liberation, O'Neal grapples with his moral conscience and the consequences of his betrayal.\nWith its powerful performances, thought-provoking themes, and riveting storytelling, Judas and the Black Messiah is a searing portrait of injustice and resistance.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Judas_and_the_Black_Messiah_.jpg",
+        "Trailer": "..\/trailers\/Judas and the Black Messiah.mp4"
+    },
+    {
+        "Movie Name": "The Green Knight",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Adventure",
+        "Actors": [
+            "Dev Patel",
+            "Alicia Vikander",
+            "Joel Edgerton"
+        ],
+        "Duration": "2 hours 10 minutes",
+        "Description": "The Green Knight is a mesmerizing fantasy adventure directed by David Lowery.\nThe film follows Sir Gawain, portrayed by Dev Patel, a knight of King Arthur's Round Table, as he embarks on a perilous quest to confront the eponymous Green Knight.\nAs Gawain journeys through a mystical and surreal landscape filled with giants, monsters, and magic, he must confront his own fears and weaknesses in order to prove his worthiness and honor.\nWith its stunning visuals, haunting atmosphere, and poetic storytelling, The Green Knight is a cinematic masterpiece that reimagines a classic medieval tale for modern audiences.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/The_Green_Knight.jpg",
+        "Trailer": "..\/trailers\/The Green Knight.mp4"
+    },
+    {
+        "Movie Name": "A Quiet Place Part II",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Horror",
+        "Actors": [
+            "Emily Blunt",
+            "Cillian Murphy",
+            "Millicent Simmonds"
+        ],
+        "Duration": "1 hour 37 minutes",
+        "Description": "A Quiet Place Part II is a heart-pounding horror fantasy directed by John Krasinski.\nThe film picks up where the original left off, following the Abbott family as they navigate a post-apocalyptic world overrun by blind monsters with acute hearing.\nAs they search for other survivors and evade the creatures lurking in the shadows, they encounter new threats and uncover the secrets of the creatures' origins.\nWith its tense atmosphere, clever sound design, and powerful performances, A Quiet Place Part II is a worthy successor to the original and a thrilling cinematic experience.",
+        "Cinema": "BallsBridge",
+        "Image": "..\/images\/movie_images\/A_Quiet_Place_Part_II.jpg",
+        "Trailer": "..\/trailers\/A Quiet Place Part II .mp4"
+    },
+    {
+        "Movie Name": "Free Guy",
+        "Release Year": "2021",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Ryan Reynolds",
+            "Jodie Comer",
+            "Taika Waititi"
+        ],
+        "Duration": "1 hour 55 minutes",
+        "Description": "Free Guy is a hilarious action fantasy directed by Shawn Levy.\nThe film follows Guy, portrayed by Ryan Reynolds, a non-player character in a popular video game who becomes self-aware and decides to take control of his own destiny.\nAs Guy embarks on a quest to become the hero of his own story and win the heart of his fellow player Molotov Girl, played by Jodie Comer, he must confront the game's creator, Antwan, portrayed by Taika Waititi, and save the virtual world from destruction.\nWith its clever premise, irreverent humor, and thrilling action sequences, Free Guy is a delightful ode to gaming culture and the power of self-discovery.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Free_Guy.jpg",
+        "Trailer": "..\/trailers\/Free Guy.mp4"
+    },
+    {
+        "Movie Name": "Shazam! Fury of the Gods",
+        "Release Year": "2023",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Zachary Levi",
+            "Helen Mirren",
+            "Lucy Liu"
+        ],
+        "Duration": "2 hours 30 minutes",
+        "Description": "Shazam! Fury of the Gods is an exhilarating fantasy action film directed by David F. Sandberg.\nThe sequel to the 2019 hit Shazam!, this movie follows Billy Batson, played by Zachary Levi, as he navigates his newfound powers and faces a new threat in the form of the villainous Hespera, portrayed by Helen Mirren, and her sister Kalypso, played by Lucy Liu.\nWith its blend of humor, heart, and high-flying action sequences, Shazam! Fury of the Gods promises to be an electrifying adventure for audiences of all ages.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Shazam!_Fury_of_the_Gods_.jpg",
+        "Trailer": "..\/trailers\/Shazam! Fury of the Gods .mp4"
+    },
+    {
+        "Movie Name": "Black Adam",
+        "Release Year": "2023",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Dwayne Johnson",
+            "Noah Centineo",
+            "Sarah Shahi"
+        ],
+        "Duration": "2 hours 15 minutes",
+        "Description": "Black Adam is a thrilling fantasy action film directed by Jaume Collet-Serra.\nStarring Dwayne Johnson in the titular role, the movie explores the backstory of the antihero Black Adam, a powerful ancient warrior who becomes a force for vengeance and justice.\nAs Black Adam battles against his enemies and grapples with his own moral code, he must decide whether to use his immense power for good or succumb to darkness.\nWith its epic scale, intense action sequences, and compelling character arc, Black Adam promises to be a must-see adventure for fans of superhero cinema.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Black_Adam.jpg",
+        "Trailer": "..\/trailers\/black adam.mp4"
+    },
+    {
+        "Movie Name": "Spider-Man: Into the Spider-Verse",
+        "Release Year": "2023",
+        "Genre": "Fantasy, Animation",
+        "Actors": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Jake Johnson"
+        ],
+        "Duration": "2 hours 10 minutes",
+        "Description": "Spider-Man: Into the Spider-Verse is a visually stunning fantasy animation directed by Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson.\nThe sequel to the critically acclaimed 2018 film, this movie follows Miles Morales, voiced by Shameik Moore, as he teams up with other Spider-People from different dimensions to face a new threat.\nWith its groundbreaking animation style, heartfelt storytelling, and diverse cast of characters, Spider-Man: Into the Spider-Verse 2 promises to be an unforgettable cinematic experience.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Spider-Man__Into_the_Spider-Verse_.jpg",
+        "Trailer": "..\/trailers\/spider verse.mp4"
+    },
+    {
+        "Movie Name": "Ant-Man and the Wasp: Quantumania",
+        "Release Year": "2023",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Michael Douglas"
+        ],
+        "Duration": "2 hours 20 minutes",
+        "Description": "Ant-Man and the Wasp: Quantumania is an action-packed fantasy film directed by Peyton Reed.\nThe third installment in the Ant-Man series, this movie follows Scott Lang, played by Paul Rudd, and Hope van Dyne, portrayed by Evangeline Lilly, as they navigate the quantum realm and face a new threat in the form of the villainous Kang the Conqueror.\nWith its blend of humor, heart, and mind-bending action, Ant-Man and the Wasp: Quantumania promises to take audiences on a wild ride through the multiverse.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Ant-Man_and_the_Wasp__Quantumania.jpg",
+        "Trailer": "..\/trailers\/ant man.mp4"
+    },
+    {
+        "Movie Name": "Sonic the Hedgehog",
+        "Release Year": "2023",
+        "Genre": "Fantasy, Adventure",
+        "Actors": [
+            "Ben Schwartz",
+            "Jim Carrey",
+            "James Marsden"
+        ],
+        "Duration": "2 hours 5 minutes",
+        "Description": "Sonic the Hedgehog is an exciting fantasy adventure directed by Jeff Fowler.\nIn this sequel to the 2020 hit film, Sonic, voiced by Ben Schwartz, teams up with his friend Tom, played by James Marsden, to stop the evil Dr. Robotnik, portrayed by Jim Carrey, from unleashing chaos upon the world.\nWith its fast-paced action, lovable characters, and nostalgic appeal, Sonic the Hedgehog 2 promises to be a thrilling ride for fans of the iconic video game franchise.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Sonic_the_Hedgehog_.jpg",
+        "Trailer": "..\/trailers\/Sonic the Hedgehog 2.mp4"
+    },
+    {
+        "Movie Name": "The Batman",
+        "Release Year": "2024",
+        "Genre": "Fantasy, Adventure",
+        "Actors": [
+            "Jeffrey Wright",
+            "Rosario Dawson",
+            "John Leguizamo"
+        ],
+        "Duration": "2 hours 30 minutes",
+        "Description": "The Batman: is an immersive fantasy adventure audio drama.\nProduced by HBO Max, this audio series follows the Dark Knight, voiced by Jeffrey Wright, as he battles against Gotham City's most notorious villains and unravels the mysteries hidden within its shadowy streets.\nWith its gripping storytelling, stellar voice cast, and atmospheric sound design, The Batman: The Audio Adventures offers a fresh and thrilling take on the legendary Caped Crusader.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/The_Batman_.jpg",
+        "Trailer": "..\/trailers\/The Batman 3.mp4"
+    },
+    {
+        "Movie Name": "Doctor Strange",
+        "Release Year": "2024",
+        "Genre": "Fantasy, Adventure",
+        "Actors": [
+            "Benedict Cumberbatch",
+            "Elizabeth Olsen",
+            "Chiwetel Ejiofor"
+        ],
+        "Duration": "2 hours 15 minutes",
+        "Description": "Doctor Strange is a mystical fantasy adventure directed by Sam Raimi.\nFollowing the events of Doctor Strange in the Multiverse of Madness, this film sees Doctor Strange, portrayed by Benedict Cumberbatch, teaming up with Scarlet Witch, played by Elizabeth Olsen, and other Marvel heroes to confront a cosmic threat.\nWith its mind-bending visuals, epic battles, and cosmic stakes, Doctor Strange: The Illuminati promises to expand the Marvel Cinematic Universe in thrilling new directions.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Doctor_Strange.jpg",
+        "Trailer": "..\/trailers\/Doctor Strange.mp4"
+    },
+    {
+        "Movie Name": "Star Wars",
+        "Release Year": "2022",
+        "Genre": "Fantasy, Sci-Fi",
+        "Actors": [
+            "Daisy Ridley",
+            "John Boyega",
+            "Oscar Isaac"
+        ],
+        "Duration": "2 hours 25 minutes",
+        "Description": "Star Wars: Return of the Sith is an epic fantasy sci-fi film directed by J.J. Abrams.\nThe sequel to the sequel trilogy, this movie follows Rey, Finn, Poe, and the rest of the Resistance as they face the remnants of the First Order and a new threat rising from the shadows.\nWith its thrilling space battles, emotional character arcs, and nods to the original trilogy, Star Wars: Return of the Sith promises to be a fitting conclusion to the Skywalker saga.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/Star_Wars_3_.jpg",
+        "Trailer": "..\/trailers\/star wars 3.mp4"
+    },
+    {
+        "Movie Name": "Toy Story ",
+        "Release Year": "2024",
+        "Genre": "Fantasy, Animation",
+        "Actors": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Annie Potts"
+        ],
+        "Duration": "2 hours 10 minutes",
+        "Description": "Toy Story  is a heartwarming fantasy animation directed by Josh Cooley.\nThe beloved toy characters return for another adventure, as Woody, Buzz Lightyear, and the gang find themselves in a new owner's playroom.\nWith its charming characters, poignant themes, and cutting-edge animation, Toy Story 5 continues the legacy of Pixar's iconic franchise with humor and heart.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Toy_Story_3_.jpg",
+        "Trailer": "..\/trailers\/Toy Story 5.mp4"
+    },
+    {
+        "Movie Name": "James Bond 26",
+        "Release Year": "2024",
+        "Genre": "Fantasy, Action",
+        "Actors": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Idris Elba"
+        ],
+        "Duration": "2 hours 30 minutes",
+        "Description": "James Bond 26 is a high-octane fantasy action film directed by Christopher Nolan.\nStarring Tom Hardy as the iconic spy James Bond, this movie follows 007 as he embarks on a globe-trotting mission to thwart a diabolical plot that threatens world peace.\nWith its breathtaking stunts, dazzling special effects, and charismatic performances, James Bond 26 is a must-see for fans of the legendary franchise.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/James_Bond_Skyfall.jpg",
+        "Trailer": "..\/trailers\/James Bond 26.mp4"
+    },
+    {
+        "Movie Name": "The Beekeeper",
+        "Release Year": "2024",
+        "Genre": "Drama, Thriller",
+        "Actors": [
+            "Tom Hardy",
+            "Emily Blunt"
+        ],
+        "Duration": "2 hours 20 minutes",
+        "Description": "The Beekeeper is a gripping drama-thriller directed by acclaimed filmmaker Denis Villeneuve. The story centers on John, a troubled beekeeper portrayed by Tom Hardy, who becomes entangled in a web of secrets and deception when he discovers a sinister plot within his community. Emily Blunt delivers a captivating performance as Sarah, John's wife, who becomes embroiled in the dangerous consequences of his discoveries. With its haunting atmosphere, intense performances, and thought-provoking themes, The Beekeeper is a masterful exploration of paranoia, trust, and the darkness that lies beneath the surface of seemingly idyllic small-town life.",
+        "Cinema": "Blanchardstown",
+        "Image": "..\/images\/movie_images\/The_Beekeeper.jpg",
+        "Trailer": "..\/trailers\/the_beekeeper.mp4"
+    },
+    {
+        "Movie Name": "Family Plan",
+        "Release Year": "2024",
+        "Genre": "Comedy, Family",
+        "Actors": [
+            "Steve Carell",
+            "Jennifer Aniston"
+        ],
+        "Duration": "1 hour 50 minutes",
+        "Description": "Family Plan is a heartwarming comedy directed by Jason Reitman. The film follows the misadventures of a chaotic family as they attempt to navigate through a series of comical challenges while planning a long-overdue family vacation. Steve Carell shines as the bumbling yet lovable patriarch, while Jennifer Aniston delivers a charming performance as his equally quirky wife. With its endearing characters, hilarious antics, and heartfelt moments, Family Plan reminds audiences of the importance of love, laughter, and togetherness in the midst of life's chaos.",
+        "Cinema": "Clondalkin",
+        "Image": "..\/images\/movie_images\/Family_Plan.jpg",
+        "Trailer": "..\/trailers\/family_plan.mp4"
+    },
+    {
+        "Movie Name": "American Star",
+        "Release Year": "2024",
+        "Genre": "Biography, Drama",
+        "Actors": [
+            "Leonardo DiCaprio",
+            "Meryl Streep"
+        ],
+        "Duration": "2 hours 30 minutes",
+        "Description": "American Star is a captivating biographical drama directed by Steven Spielberg. The film chronicles the remarkable life and career of a legendary Hollywood icon, exploring the highs and lows of fame, fortune, and the pursuit of artistic excellence. Leonardo DiCaprio delivers a tour-de-force performance in the lead role, embodying the charisma and complexity of the iconic star, while Meryl Streep shines in a supporting role as his devoted mentor and confidante. With its sweeping scope, stellar performances, and poignant storytelling, American Star is a cinematic masterpiece that celebrates the enduring power of dreams and the indomitable spirit of the human heart.",
+        "Cinema": "City West",
+        "Image": "..\/images\/movie_images\/American_Star.jpg",
+        "Trailer": "..\/trailers\/american_star.mp4"
+    },
+    {
+        "Movie Name": "Furiosa Mad Max",
+        "Release Year": "2024",
+        "Genre": "Action, Adventure",
+        "Actors": [
+            "Charlize Theron",
+            "Chris Hemsworth"
+        ],
+        "Duration": "2 hours 15 minutes",
+        "Description": "Furiosa Mad Max is an adrenaline-fueled action-adventure directed by George Miller. Set in a dystopian future where survival is a constant battle, the film follows the fierce warrior Furiosa, portrayed by Charlize Theron, as she embarks on a perilous journey across the wasteland in search of freedom and redemption. Chris Hemsworth joins the cast in a dynamic role, bringing charisma and intensity to the screen. With its breathtaking visuals, pulse-pounding action sequences, and compelling performances, Furiosa Mad Max delivers a thrilling cinematic experience that will leave audiences breathless.",
+        "Cinema": "Tallaght",
+        "Image": "..\/images\/movie_images\/Furiosa_Mad_Max.jpg",
+        "Trailer": "..\/trailers\/furiosa_mad_max.mp4"
+    },
+    {
+        "Movie Name": "Godzilla x Kong: The New Empire",
+        "Release Year": "2024",
+        "Genre": "action fantasy ",
+        "Actors": [
+            "Rebecca Hall",
+            "Brian Tyree Henry",
+            "Dan Stevens",
+            "Kaylee Hottle",
+            "Alex Ferns",
+            "Fala Chen"
+        ],
+        "Duration": "1 hour 55 min",
+        "Description": "Three years after defeating Mechagodzilla, Kong has established his new territory in the Hollow Earth and searches for more of his kind, while on Earth's surface, Godzilla continues to maintain order between humanity and giant monsters, known as \"Titans\" \u2014 killing Scylla in Rome and resting in the Colosseum afterwards.\r\n\r\nA Monarch observation outpost stationed in the Hollow Earth picks up an unidentified signal. On the surface, the signal causes Jia, the last known survivor of the Iwi tribe from Skull Island, to experience hallucinations and flashbacks, causing her adoptive mother, Dr. Ilene Andrews, to worry. Also sensing the signal, Godzilla leaves Rome and attacks a nuclear plant in France to absorb the radiation. Godzilla then heads to Tiamat's lair in the Arctic. Monarch believes Godzilla is strengthening himself to face an oncoming threat. ",
+        "Cinema": "tallaght",
+        "Image": "..\/images\/movie_images\/godzilla.jpg",
+        "Trailer": "https:\/\/www.youtube.com\/watch?v=qqrpMRDuPfc"
+    }
+]
