@@ -1,0 +1,106 @@
+
+/* Main content styles */
+main {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center child elements horizontally */
+    padding: 20px; /* Add padding around main content */
+    flex: 1; /* Allow main content to grow and fill available space */
+}
+
+/* Booking form styles */
+#booking-form {
+    display: flex; /* Use flexbox for layout */
+    color: white; /* Set text color to white */
+    flex-direction: column; /* Stack form elements vertically */
+    gap: 10px; /* Set gap between form elements */
+    padding: 20px; /* Add padding around form elements */
+    border: 2px solid #ccc; /* Add border to form */
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
+
+#booking-form label {
+    font-weight: bold; /* Set font weight to bold for labels */
+}
+
+#booking-form input,
+#booking-form button {
+    padding: 5px 10px; /* Add padding to input fields and buttons */
+}
+
+#booking-form input[type="number"] {
+    width: 100px; /* Set width of number input fields */
+}
+
+
+/* Payment form styles */
+#payment-form {
+    display: none; /* Hide payment form by default */
+    background-color: #f9f9f9; /* Set background color of payment form */
+    padding: 20px; /* Add padding to payment form */
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
+
+#payment-form h2 {
+    margin-bottom: 10px; /* Add margin below heading */
+}
+
+#payment-form label {
+    font-weight: bold; /* Set font weight to bold for labels */
+    display: block; /* Display labels as block elements */
+    margin-bottom: 5px; /* Add margin below labels */
+}
+
+#payment-form input[type="text"],
+#payment-form input[type="number"] {
+    width: 100%; /* Make input fields occupy full width */
+    padding: 8px; /* Add padding to input fields */
+    margin-bottom: 10px; /* Add margin below input fields */
+    border: 1px solid #ccc; /* Add border to input fields */
+    border-radius: 5px; /* Add border radius for rounded corners */
+}
+
+#payment-form input[type="text"]:focus,
+#payment-form input[type="number"]:focus {
+    outline: none; /* Remove outline on focus */
+    border-color: #007bff; /* Change border color on focus */
+}
+
+#payment-form button {
+    padding: 10px 20px; /* Add padding to buttons */
+    background-color: #007bff; /* Set button background color */
+    color: white; /* Set button text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s; /* Add transition effect for background color */
+}
+
+#payment-form button:hover {
+    background-color: #0056b3; /* Change background color on hover */
+}
+
+#payment-form button:focus {
+    outline: none; /* Remove outline on focus */
+}
+footer {
+    position: fixed; /* Fix the footer to the bottom of viewport */
+    left: 0; /* Align the footer to the left edge of viewport */
+    bottom: 0; /* Position the footer at the bottom of viewport */
+    width: 100%; /* Make the footer span entire width of viewport */
+    background-color: transparent; /* Set background color of footer */
+    color: white; /* Set text color of footer to white */
+    padding: 10px; /* Add padding around content of footer */
+    text-align: center; /* Center align text content of footer */
+}
+
+/* Footer link styles */
+footer a {
+    color: white; /* Set text color of links to white */
+    text-decoration: none; /* Remove default underline from links */
+    margin-right: 10px; /* Add margin between links */
+}
+
+/* Last footer link style */
+footer a:last-child {
+    margin-right: 0; /* Remove right margin from last link */
+}

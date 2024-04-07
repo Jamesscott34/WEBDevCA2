@@ -1,0 +1,47 @@
+.button-container {
+    text-align: center;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Button color */
+    color: #fff; /* Text color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+.button:hover {
+    background-color: #0056b3; /* Button color on hover */
+  }
+.movie-details {
+    text-align: center;
+    width: 100%; /* Set the width to 100% */
+    padding: 0 20px; /* Add padding to the sides */
+}
+
+.movie-image {
+    width: 50%; /* Adjust the width as needed */
+    display: block; /* To center the image */
+    margin: 0 auto 20px; /* To center the image and add space below */
+}
+
+.movie-details h2,
+.movie-details p {
+    color: white !important; /* Text color */
+    max-width: 100%; /* Set max-width to 100% */
+    margin-left: auto; /* Center the text */
+    margin-right: auto; /* Center the text */
+}
+
+.movie-details h2 {
+    margin-bottom: 10px; /* Add space below h2 */
+}
+
+.movie-video {
+    display: block;
+    margin: 20px auto; /* Adjust margin as needed */
+    width: 100%; /* Set the width to 100% */
+}
+

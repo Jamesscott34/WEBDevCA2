@@ -1,0 +1,114 @@
+/* Header styles */
+header {
+    /* Position the header at the top left corner */
+    top: 0;
+    left: 0;
+    /* Set background image for the header */
+    background-image: url("../images/background/background2.jpg");
+    background-size: cover; /* Scale background image to cover entire header */
+    background-position: center; /* Center background image */
+    color: white; /* Set text color to white */
+    height: 100px; /* Set height of the header */
+    width: 100%; /* Set width of the header to span entire viewport */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space items evenly horizontally */
+    padding: 0 20px; /* Add padding to header */
+    z-index: 1000; /* Ensure the header appears above other elements */
+}
+
+h1 {
+    text-align: center !important; /* Center align text within h1 */
+    color: white; /* Set text color to white */
+}
+
+/* Body styles */
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    /* Set background image for the body */
+    background-image: url('../images/background/background1.jpg');
+    background-size: cover; /* Scale background image to cover entire body */
+    background-position: center; /* Center background image */
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack child elements vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: space-between; /* Space items evenly vertically */
+    min-height: 100vh; /* Set minimum height of body to viewport height */
+}
+
+/* About Page paragraph styles */
+.About-page p {
+    color: white; /* Set text color to white */
+}
+
+/* Space Div */
+.space-div {
+    height: 50px; /* Adjust height as needed */
+}
+
+/* Navigation styles */
+nav {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    width: 100%; /* Make navigation span the entire width */
+    justify-content: center; /* Center navigation horizontally */
+    padding: 20px 0; /* Add padding to top and bottom */
+}
+
+nav ul {
+    list-style-type: none; /* Remove default list styles */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Use flexbox for layout */
+}
+
+nav li {
+    margin-right: 15px; /* Add margin between list items */
+}
+
+nav a {
+    text-decoration: none; /* Remove default underline from links */
+    color: inherit; /* Inherit text color from parent */
+    font-weight: bold; /* Set font weight to bold */
+    font-size: 16px; /* Set font size */
+    transition: color 0.3s; /* Smooth transition for color change */
+}
+
+nav a:hover {
+    border-bottom: 2px solid white; /* Add bottom border on hover */
+}
+
+nav a:active {
+    color: #ffcc00; /* Set text color when link is active */
+}
+
+.logo-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+}
+
+.logo-container img {
+    max-height: 40px; /* Set maximum height for logo image */
+}
+
+/* Footer styles */
+footer {
+    background-color: transparent; /* Set background color for footer */
+    color: white; /* Set text color for footer */
+    padding: 10px; /* Add padding around content */
+    width: 100%; /* Make footer span the entire width */
+    text-align: center; /* Center content horizontally */
+}
+
+/* Footer link styles */
+footer a {
+    color: white; /* Set text color for links */
+    text-decoration: none; /* Remove default underline */
+    margin-right: 10px; /* Add margin between links */
+}
+
+/* Last footer link style */
+footer a:last-child {
+    margin-right: 0; /* Remove margin from last link */
+}

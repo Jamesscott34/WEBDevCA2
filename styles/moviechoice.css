@@ -1,0 +1,38 @@
+/* Bigger Box for Movie List Items */
+#movies ul li {
+    border: 2px solid #ccc; /* Increase border thickness */
+    border-radius: 10px; /* Add border radius for rounded corners */
+    padding: 15px; /* Increase padding */
+}
+
+.MovieList ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex; /* Use flexbox to display list items */
+  flex-direction: column; /* Stack list items vertically */
+}
+
+.MovieList ul li {
+  background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 10px; /* Add spacing between list items */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.MovieList ul li:last-child {
+  margin-bottom: 0; /* Remove margin from the last list item */
+}
+
+.MovieList ul li img {
+  max-width: 100px; /* Adjust the maximum width of the images */
+  height: auto;
+  border-radius: 20px; /* Apply border-radius to images */
+  margin-right: 10px; /* Add spacing between image and text */
+}
+
+.MovieList ul li p {
+  color: black;
+  text-align: center;
+  margin: 0;
+}
